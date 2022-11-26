@@ -1,13 +1,13 @@
 <center><img src="https://i.imgur.com/WVkO4qr.png">
 
-
-
 [![Created with - HTML5](https://img.shields.io/badge/Created_with-HTML5-E34F26?logo=HTML5&logoColor=ffffff)](https://)
 [![Created with - CSS3](https://img.shields.io/badge/Created_with-CSS3-1572B6?logo=CSS3&logoColor=ffffff)](https://)
 [![Created with - Photoshop](https://img.shields.io/badge/Created_with-Photoshop-31A8FF?logo=Adobe+Photoshop&logoColor=ffffff)](https://)
 [![Protfolio - Project](https://img.shields.io/badge/Protfolio-Project-FB542B?logo=Brave&logoColor=ffffff)](https://link_to_portfolio_site)
-[![more info on  - my dev.to blog](https://img.shields.io/badge/more_info_on_-my_dev.to_blog-000000?logo=dev.to&logoColor=ffffff)]([https://dev.to/kurtissfrost](https://dev.to/kurtissfrost/first-project-using-css-34k2))
+[![more info on  - my dev.to blog](https://img.shields.io/badge/more_info_on_-my_dev.to_blog-000000?logo=dev.to&logoColor=ffffff)](https://dev.to/kurtissfrost/first-project-using-css-34k2)
+
 </center>
+
 </br></br>
 
 # The Project
