@@ -25,7 +25,7 @@ This also served as a refresher course for my limited HTML knowledge. It essenti
 
 </h2></center>
 
-You can also read more about the project and my thoughts on it over on my [dev.to]() blog.
+You can also read more about the project and my thoughts on it over on my [dev.to](https://dev.to/kurtissfrost/first-project-using-css-34k2) blog.
 
 It also served as an excuse for me to boot up Photoshop and make my own thumbnails and avatars for the "users" who uploaded videos to the site.
 </br></br>
