@@ -19,11 +19,17 @@ It is essentially a YouTube clone site that I added my own flair to. The main pu
 This also served as a refresher course for my limited HTML knowledge. It essentially killed two birds with one stone. You can find the project on the following places:
 
 
-<h2><center>
+<h2 align="center">Preview:</h2>
 
-[CodePen Link](coming soon) &#183; [Website Link](https://streamos.kurtissfrost.com)
+<br>
 
-</h2></center>
+<a href="https://codepen.io/kurtissfrost/pen/qBwjZVz">Code Pen Preview</a> - <b>Still Under COnstruction. The basic outline is there, I just need to upload all of the image assets to give it the full effect.</b>
+
+<img src="https://i.imgur.com/PAcrRub.gif">
+
+
+
+
 
 You can also read more about the project and my thoughts on it over on my [dev.to](https://dev.to/kurtissfrost/first-project-using-css-34k2) blog.
 
